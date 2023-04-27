@@ -159,6 +159,6 @@ Abenezer Dereje - [Github]https://github.com/AbenezerDer
 
 Awwal Musa - [Github]https://github.com/techbone
 
-Second part of Airbnb: Joann Vuong
+
 ## License
 Public Domain. No copy write protection. 
