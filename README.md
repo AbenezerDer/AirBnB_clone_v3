@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Abenezer Dereje - [Github]https://github.com/AbenezerDer email
+Abenezer Dereje - [Github]https://github.com/AbenezerDer
 Awwal Musa - [Github]https://github.com/techbone
 
 Second part of Airbnb: Joann Vuong
